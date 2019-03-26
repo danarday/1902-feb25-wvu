@@ -1,5 +1,7 @@
 package com.revature.beans;
 
+//Change and push
+
 public class Bean {
 	private String name;
 	private String strain;
